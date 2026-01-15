@@ -7,7 +7,8 @@ The system integrates mechanical folding arms with an embedded control unit to a
 
 This project was developed as a **Final Year Project (FYP)** and focuses on real-world automation challenges including motor control, sequencing, mechanical alignment, and system reliability.
 
-![FoldBot Front View](Schematic-FoldBot.png)
+![FoldBot Front View](T-Shirt_Fold.PNG)
+
 
 ---
 
