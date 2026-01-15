@@ -2,7 +2,7 @@
 
 ## Final Year Project (FYP)
 
-**FoldBot** is an automated clothes folding system designed to reduce manual effort, improve folding consistency, and demonstrate the practical application of **embedded systems, automation, and mechatronics**.
+**FoldBot** is an automated clothes folding system designed to reduce manual effort, improve folding consistency, and demonstrate the practical application of **embedded systems, and automation**.
 The system integrates mechanical folding arms with an embedded control unit to autonomously fold garments with minimal human intervention.
 
 This project was developed as a **Final Year Project (FYP)** and focuses on real-world automation challenges including motor control, sequencing, mechanical alignment, and system reliability.
@@ -20,7 +20,6 @@ Manual clothes folding is:
 * Labor-intensive
 * Inconsistent in quality
 
-In environments such as **laundries, hospitals, hostels, and garment facilities**, repetitive folding leads to inefficiency and human fatigue.
 
 **FoldBot** addresses this problem by providing a **low-cost, embedded-system-based automated solution** capable of folding clothes accurately using controlled mechanical motion.
 
@@ -28,7 +27,7 @@ In environments such as **laundries, hospitals, hostels, and garment facilities*
 
 ## 🎯 Project Objectives
 
-* Design a **fully automated clothes folding mechanism**
+* Design a **fully automated t-shirt folding mechanism**
 * Implement **embedded control logic** for precise motion sequencing
 * Integrate **motors, sensors, and mechanical arms**
 * Demonstrate a **working prototype** suitable for small-scale automation
@@ -44,7 +43,7 @@ FoldBot consists of three main subsystems:
 2. **Embedded Control System**
 3. **Power and Drive System**
 
-The system operates by placing a garment on the folding platform, after which a predefined sequence of motor-driven arms folds the cloth into a compact form.
+The system operates by placing a garment on the folding platform, after which a predefined sequence of motor-driven arms folds the t-shirt into a compact form.
 
 ---
 
@@ -67,14 +66,11 @@ All movements are **timed and synchronized** to ensure consistent folding.
 
 ## 🧩 Hardware Components
 
-* **Microcontroller Unit (MCU)**
+* **ESP32 Microcontroller (MCU)**
   Controls the entire folding sequence and motor timing.
 
 * **DC / Servo Motors**
   Used to drive folding arms with controlled motion.
-
-* **Motor Driver Module**
-  Interfaces motors with the microcontroller and provides sufficient current.
 
 * **Mechanical Folding Arms**
   Custom-built structure to physically fold garments.
