@@ -69,7 +69,7 @@ All movements are **timed and synchronized** to ensure consistent folding.
 * **ESP32 Microcontroller (MCU)**
   Controls the entire folding sequence and motor timing.
 
-* **DC / Servo Motors**
+* **DS3225MG 25KG RC Servo Motors**
   Used to drive folding arms with controlled motion.
 
 * **Mechanical Folding Arms**
